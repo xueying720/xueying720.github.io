@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xueying Zhang",
+    "email": "xueying_zhang@sfu.ca",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://xueying720.github.io",
+    "summary": "CS PhD student at SFU",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Vancouver",
+      "countryCode": "Canada",
+      "region": "BC"
     },
     "profiles": [
       {
@@ -33,29 +33,38 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Simon Fraser University",
+      "area": "PhD in Computing Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Edinburgh",
+      "area": "MSc in Design Informatics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Beijing University of Technology",
+      "area": "BEng in Internet of Things",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Beijing University of Technology",
+      "area": "BA in English",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
