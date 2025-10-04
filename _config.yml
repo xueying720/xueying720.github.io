@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xueying Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "CS PhD student at SFU"
   location         : "Vancouver, BC, Canada"
   employer         : "Simon Fraser University"
