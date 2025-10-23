@@ -17,14 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am a second-year PhD student in the School of Computing Science at Simon Fraser University, supervised by Prof. [Lawrence Kim](https://www.lhkim.com/). I am affiliated with [Tangent Lab](https://tangent.cs.sfu.ca/) and [Interactive Experiences Lab (ixLab)](https://ixlab.cs.sfu.ca/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Prior to this, I worked as a product designer in Toronto. I hold a Master’s degree in [Design Informatics](https://www.designinformatics.org/) from the University of Edinburgh and a Bachelor’s degree in Internet of Things Engineering from [Beijing University of Technology](https://english.bjut.edu.cn/).
+
+My research lies at the intersection of human-computer interaction, tangible user interfaces, inclusive design, and health and wellbeing.
 
 
-# 🔥 News
+# 📮 News
+- *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health*
+at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/).
+- *2025.9*: I attended the [GROWW Fall 2025 Institute](https://www.growwprogram.com/blog/blog-post-title-one-8nlcz-6f5xg-4m84h) in halifax, NS, Canada 🌊. It was so nice to learn from the researchers in women's health and wellbeing!
+- *2025.6*: I will present my poster *Designing Swarm Robot Interactions for Emotion Regulation* at [NWRS 2025](https://nwrsymposium.github.io/).
+- *2025.5*: I am selected as a cohort member and scholarship recipient of the 2025 [GROWW (Guiding interdisciplinary Research On Women’s and girls’ health and Wellbeing)](https://www.growwprogram.com/) program! Thank you GROWW for the wonderful opportunity to learn knowledge and methodology on Women’s and Girls’ health.
+- *2025.3*: I will present my poster *Designing Swarm Robot Interactions for Everyday Anxiety Regulation* at [GI 2025](https://graphicsinterface.org/) in Kelowna, BC, Canada.
+
+<!-- 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
+
+# 🎨 Design Portfolio
+Feel free to check my design projects [here](https://zhangxueying720.wixsite.com/xueying)! This is a design portfolio that I created before I started my PhD studies.
+
+<!-- 
+
 
 # 📝 Publications 
 
@@ -42,6 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,3 +73,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+-->
