@@ -17,27 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a second-year PhD student in the School of Computing Science at Simon Fraser University, supervised by Prof. [Lawrence Kim](https://www.lhkim.com/). I am affiliated with [Tangent Lab](https://tangent.cs.sfu.ca/) and [Interactive Experiences Lab (ixLab)](https://ixlab.cs.sfu.ca/).
+👋 Hi! I am a second-year PhD student in the School of Computing Science at [Simon Fraser University](https://www.sfu.ca/), supervised by Prof. [Lawrence Kim](https://www.lhkim.com/). I am affiliated with [Tangent Lab](https://tangent.cs.sfu.ca/) and [Interactive Experiences Lab (ixLab)](https://ixlab.cs.sfu.ca/).
 
-Prior to this, I worked as a product designer in Toronto. I hold a Master’s degree in [Design Informatics](https://www.designinformatics.org/) from the University of Edinburgh and a Bachelor’s degree in Internet of Things Engineering from [Beijing University of Technology](https://english.bjut.edu.cn/).
+Prior to this, I worked as a product designer in Toronto. I hold a Master’s degree in [Design Informatics](https://www.designinformatics.org/) from the [University of Edinburgh](https://www.ed.ac.uk/) and a Bachelor’s degree in Internet of Things Engineering from [Beijing University of Technology](https://english.bjut.edu.cn/).
 
 My research lies at the intersection of human-computer interaction, tangible user interfaces, inclusive design, and health and wellbeing.
 
 
 # 📮 News
 - *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health*
-at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/).
+at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/) 👩‍💻.
 - *2025.9*: I attended the [GROWW Fall 2025 Institute](https://www.growwprogram.com/blog/blog-post-title-one-8nlcz-6f5xg-4m84h) in halifax, NS, Canada 🌊. It was so nice to learn from the researchers in women's health and wellbeing!
-- *2025.6*: I will present my poster *Designing Swarm Robot Interactions for Emotion Regulation* at [NWRS 2025](https://nwrsymposium.github.io/).
-- *2025.5*: I am selected as a cohort member and scholarship recipient of the 2025 [GROWW (Guiding interdisciplinary Research On Women’s and girls’ health and Wellbeing)](https://www.growwprogram.com/) program! Thank you GROWW for the wonderful opportunity to learn knowledge and methodology on Women’s and Girls’ health.
-- *2025.3*: I will present my poster *Designing Swarm Robot Interactions for Everyday Anxiety Regulation* at [GI 2025](https://graphicsinterface.org/) in Kelowna, BC, Canada.
+- *2025.6*: I will present my poster *Designing Swarm Robot Interactions for Emotion Regulation* at [NWRS 2025](https://nwrsymposium.github.io/) 🦾.
+- *2025.5*: &nbsp;🎉🎉 I am selected as a cohort member and scholarship recipient of the 2025 [GROWW (Guiding interdisciplinary Research On Women’s and girls’ health and Wellbeing)](https://www.growwprogram.com/) program! Thank you GROWW for the wonderful opportunity to learn knowledge and methodology on Women’s and Girls’ health 💃!
+- *2025.3*: I will present my poster *Designing Swarm Robot Interactions for Everyday Anxiety Regulation* at [GI 2025](https://graphicsinterface.org/) in Kelowna, BC, Canada 🏔️.
 
 <!-- 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 🎨 Design Portfolio
-Feel free to check my design projects [here](https://zhangxueying720.wixsite.com/xueying)! This is a design portfolio that I created before I started my PhD studies.
+# 🎨 Design
+Feel free to check my design projects [here](https://zhangxueying720.wixsite.com/xueying)! This is a design portfolio website that I created before I started my PhD studies.
 
 <!-- 
 
