@@ -27,7 +27,7 @@ My research lies at the intersection of human-computer interaction, tangible use
 # 📮 News
 - *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health*
 at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/) 👩‍💻.
-- *2025.9*: I attended the [GROWW Fall 2025 Institute](https://www.growwprogram.com/blog/blog-post-title-one-8nlcz-6f5xg-4m84h) in halifax, NS, Canada 🌊. It was so nice to learn from the researchers in women's health and wellbeing!
+- *2025.9*: I attended the [GROWW Fall 2025 Institute](https://www.growwprogram.com/blog/blog-post-title-one-8nlcz-6f5xg-4m84h) in Halifax, NS, Canada 🌊. It was so nice to learn from the researchers in women's health and wellbeing!
 - *2025.6*: I will present my poster *Designing Swarm Robot Interactions for Emotion Regulation* at [NWRS 2025](https://nwrsymposium.github.io/) 🦾.
 - *2025.5*: &nbsp;🎉🎉 I am selected as a cohort member and scholarship recipient of the 2025 [GROWW (Guiding interdisciplinary Research On Women’s and girls’ health and Wellbeing)](https://www.growwprogram.com/) program! Thank you GROWW for the wonderful opportunity to learn knowledge and methodology on Women’s and Girls’ health 💃!
 - *2025.3*: I will present my poster *Designing Swarm Robot Interactions for Everyday Anxiety Regulation* at [GI 2025](https://graphicsinterface.org/) in Kelowna, BC, Canada 🏔️.
