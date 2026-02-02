@@ -38,7 +38,9 @@ My research lies at the intersection of human-computer interaction, tangible use
 
 
 # 📝 Publications 
+- Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces, **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, **CHI 2026 (Conditionally Accepted)**
 
+<!-- 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -51,15 +53,14 @@ My research lies at the intersection of human-computer interaction, tangible use
   Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces
 
   **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim
+
+  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
   </div>
-</div>
-<!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 </div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+
 
 # 🎨 Design
 Feel free to check my design projects [here](https://zhangxueying720.wixsite.com/xueying)! This is a design portfolio website that I created before I started my PhD studies.
