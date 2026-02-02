@@ -43,7 +43,7 @@ My research lies at the intersection of human-computer interaction, tangible use
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHI 2026 (Conditionally Accepted)</div>
-      img src='images/pub/swarm.png' alt="swarn" width="100%">
+      <img src='images/pub/swarm.png' alt="swarn" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
