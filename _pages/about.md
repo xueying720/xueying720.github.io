@@ -25,8 +25,7 @@ My research lies at the intersection of human-computer interaction, tangible use
 
 
 # 📮 News
-- *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health*
-at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/) 👩‍💻.
+- *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health* at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/) 👩‍💻.
 - *2025.9*: I attended the [GROWW Fall 2025 Institute](https://www.growwprogram.com/blog/blog-post-title-one-8nlcz-6f5xg-4m84h) in Halifax, NS, Canada 🌊. It was so nice to learn from the researchers in women's health and wellbeing!
 - *2025.6*: I will present my poster *Designing Swarm Robot Interactions for Emotion Regulation* at [NWRS 2025](https://nwrsymposium.github.io/) 🦾.
 - *2025.5*: &nbsp;🎉🎉 I am selected as a cohort member and scholarship recipient of the 2025 [GROWW (Guiding interdisciplinary Research On Women’s and girls’ health and Wellbeing)](https://www.growwprogram.com/) program! Thank you GROWW for the wonderful opportunity to learn knowledge and methodology on Women’s and Girls’ health 💃!
@@ -36,28 +35,30 @@ at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeaste
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 🎨 Design
-Feel free to check my design projects [here](https://zhangxueying720.wixsite.com/xueying)! This is a design portfolio website that I created before I started my PhD studies.
-
-<!-- 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 (Conditionally Accepted)</div><img src='images/pub/swarm.png' alt="swarn" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim
 
+<!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
+# 🎨 Design
+Feel free to check my design projects [here](https://zhangxueying720.wixsite.com/xueying)! This is a design portfolio website that I created before I started my PhD studies.
+
+<!-- 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
