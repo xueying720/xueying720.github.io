@@ -25,6 +25,7 @@ My research lies at the intersection of human-computer interaction, tangible use
 
 
 # 📮 News
+- *2026.1*: I was selected as a recipient of the [Robar Industries Ltd Graduate Scholarship](https://www.sfu.ca/gradstudies/awards-funding/internal-donor-funded/ensc.html#robar), part of Ebco Eppich Graduate Scholarships in Intelligent Systems.
 - *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health* at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/) 👩‍💻.
 - *2025.9*: I attended the [GROWW Fall 2025 Institute](https://www.growwprogram.com/blog/blog-post-title-one-8nlcz-6f5xg-4m84h) in Halifax, NS, Canada 🌊. It was so nice to learn from the researchers in women's health and wellbeing!
 - *2025.6*: I will present my poster *Designing Swarm Robot Interactions for Emotion Regulation* at [NWRS 2025](https://nwrsymposium.github.io/) 🦾.
