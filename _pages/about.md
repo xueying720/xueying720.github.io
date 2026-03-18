@@ -54,7 +54,8 @@ My research lies at the intersection of human-computer interaction, tangible use
   [Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces](/pdf/chi26-1316.pdf)
 
   **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, [**CHI 2026**](https://chi2026.acm.org/)
-  
+  </div>
+</div>
 
 <!-- 
 [Acceptance rate = 25.3% (1,703/6,730)]
