@@ -40,26 +40,32 @@ My research lies at the intersection of human-computer interaction, tangible use
 
 
 # 📝 Publications 
-- *Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces*, **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, **CHI 2026 (Conditionally Accepted)**
 
-<!-- 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CHI 2026 (Conditionally Accepted)</div>
-      <img src='images/pub/swarm.png' alt="swarn" width="100%">
+      <!-- <div class="badge">ACM CHI 2026</div>-->
+      <img src='/images/pub/prototypes(v2).png' alt="prototypes for emotion regulation" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces
+  [Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces](/pdf/chi26-1316.pdf)
 
-  **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim
+  **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, [**CHI 2026**](https://chi2026.acm.org/)
+  
+
+<!-- 
+[Acceptance rate = 25.3% (1,703/6,730)]
+
+- *Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces*, **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, **CHI 2026**
 
   [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
   </div>
 </div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
