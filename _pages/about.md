@@ -42,7 +42,7 @@ My research lies at the intersection of human-computer interaction, tangible use
 # 📝 Publications 
 
 
-<div class='paper-box'>
+<div>
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">ACM CHI 2026</div>-->
@@ -58,7 +58,21 @@ My research lies at the intersection of human-computer interaction, tangible use
 </div>
 
 <!-- 
-[Acceptance rate = 25.3% (1,703/6,730)]
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACM CHI 2026</div>
+      <img src='/images/pub/prototypes(v2).png' alt="prototypes for emotion regulation" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces](/pdf/chi26-1316.pdf)
+
+  **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, [**CHI 2026**](https://chi2026.acm.org/)
+  [Acceptance rate = 25.3% (1,703/6,730)]
+  </div>
+</div>
 
 - *Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces*, **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, **CHI 2026**
 
