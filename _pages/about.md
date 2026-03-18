@@ -40,22 +40,8 @@ My research lies at the intersection of human-computer interaction, tangible use
 
 
 # 📝 Publications 
+- [Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces](/pdf/chi26-1316.pdf), **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, [**CHI 2026**](https://chi2026.acm.org/)
 
-
-<div>
-  <div class='paper-box-image'>
-    <div>
-      <!-- <div class="badge">ACM CHI 2026</div>-->
-      <img src='/images/pub/prototypes(v2).png' alt="prototypes for emotion regulation" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-  [Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces](/pdf/chi26-1316.pdf)
-
-  **Xueying Zhang**, Vidhi Aggarwal, Anjun Zhu, Lawrence H. Kim, [**CHI 2026**](https://chi2026.acm.org/)
-  </div>
-</div>
 
 <!-- 
 <div class='paper-box'>
