@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi! I am a second-year PhD student in the School of Computing Science at [Simon Fraser University](https://www.sfu.ca/), supervised by Dr. [Lawrence Kim](https://www.lhkim.com/). I am affiliated with [Tangent Lab](https://tangent.cs.sfu.ca/) and [Interactive Experiences Lab (ixLab)](https://ixlab.cs.sfu.ca/).
+👋 Hi! I am a second-year PhD student in the School of Computing Science at [Simon Fraser University](https://www.sfu.ca/), supervised by [Dr. Lawrence Kim](https://www.lhkim.com/). I am affiliated with [Tangent Lab](https://tangent.cs.sfu.ca/) and the [Interactive Experiences Lab (ixLab)](https://ixlab.cs.sfu.ca/).
 
-Prior to this, I worked as a product designer in Toronto. I hold a Master’s degree in [Design Informatics](https://www.designinformatics.org/) from the [University of Edinburgh](https://www.ed.ac.uk/) (supervised by Dr. [John Vines](https://designinformatics.org/portfolio-item/john-vines/))and a Bachelor’s degree in Internet of Things Engineering from [Beijing University of Technology](https://english.bjut.edu.cn/) (supervised by Dr. [Juan Fang](https://cs.bjut.edu.cn/info/1408/1171.htm)).
+My research lies at the intersection of human computer interaction, mental health and well-being, robotics, tangible user interfaces, and inclusive design. I study how people experience, express, and manage emotional needs in everyday life, and how interactive technologies can better support these sensitive experiences. My work combines qualitative user research, design practice, and technical implementation.
 
-My research lies at the intersection of human-computer interaction, tangible user interfaces, inclusive design, and health and wellbeing.
+Before starting my PhD, I worked as a product designer in Toronto. I received my Master’s degree in [Design Informatics](https://www.designinformatics.org/) from the [University of Edinburgh](https://www.ed.ac.uk/), where I was supervised by [Dr. John Vines](https://designinformatics.org/portfolio-item/john-vines/), and my Bachelor’s degree in Internet of Things Engineering from [Beijing University of Technology](https://english.bjut.edu.cn/), where I was supervised by [Dr. Juan Fang](https://cs.bjut.edu.cn/info/1408/1171.htm).
 
 
 # 📮 News
+- *2026.5*: I presented our paper, [*Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces*](https://doi.org/10.1145/3772318.3791599), at the [Salish SIGCHI Celebration of Research](https://salishsigchi.acm.org/salish-sigchi-celebration-of-research-may-22-in-vancouver/).
 - *2026.2*: Our paper *Feeling with Many: Rethinking Emotion Regulation with Swarm User Interfaces* has been accepted to [CHI 2026](https://chi2026.acm.org/). See you in Barcelona, Spain 🏖️! 
 - *2026.1*: I was selected as a recipient of the [Robar Industries Ltd Graduate Scholarship](https://www.sfu.ca/gradstudies/awards-funding/internal-donor-funded/ensc.html#robar), part of Ebco Eppich Graduate Scholarships in Intelligent Systems.
 - *2025.9*: I will present my poster *SoothePaw: Squeezable User Interface for Perinatal Mental Health* at [CWIC 2025](https://acmcelebrationofcascadiawomenincomputing.sites.northeastern.edu/) 👩‍💻.
