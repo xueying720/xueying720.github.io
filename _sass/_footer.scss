@@ -8,8 +8,8 @@
   width: 100%;
   clear: both;
   position: relative;
-  margin-top: 2.5rem;
-  padding: 1.25rem 0 1.75rem;
+  margin-top: 3rem;
+  padding: 1rem 0 1.75rem;
   color: mix(#fff, $text-color, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -26,8 +26,13 @@
     padding: 0 1rem;
     box-sizing: border-box;
 
+    @include breakpoint($large) {
+      max-width: calc(100% - 2rem);
+    }
+
     @include breakpoint($x-large) {
       max-width: $x-large;
+      padding: 0;
     }
   }
 
@@ -54,6 +59,7 @@
   line-height: 1.7;
   color: mix(#fff, $text-color, 25%);
   max-width: 100%;
+  padding-top: 0.25rem;
 }
 
 .page__footer-follow {
